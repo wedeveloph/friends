@@ -8,4 +8,3 @@ A directory of Developh members and their websites. ✨
 | Bianca          | chief design officer | http://biancamikaila.com/ |  |
 | Kirsten          | chief technology officer | linked.in/skentir |  |
 | Kira Yoshikage       | sample  | sample.com |  |
-
